@@ -1,0 +1,15 @@
+.menu{
+    margin:20px
+}
+.menu p{
+    background-color: lightblue;
+    width: 130px;
+}
+
+.menu a:visited{
+    color:green;
+}
+
+.menu a:hover{
+    color: red;
+}
